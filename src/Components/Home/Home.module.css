@@ -1,0 +1,177 @@
+.grey_box {
+  background-color: #f5f3f3;
+}
+
+.heading {
+  font-weight: 300;
+  color: #22A39F;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+.sub-title {
+  font-weight: 300;
+  color: #22A39F;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.margin-top-10 {
+  margin-top: 10px;
+}
+
+.margin-top-30 {
+  margin-top: 30px;
+}
+
+.margin-bottom-30 {
+  margin-bottom: 30px;
+}
+
+.padding-top-30 {
+  padding-top: 30 !important;
+}
+
+.profile_pic {
+  border: #cecece 7px solid;
+  border-radius: 100%;
+}
+
+.about_me_text {
+  margin-right: 20px;
+  line-height: 1.64;
+  color: #6e8496;
+  font-size: 12px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.detail_main {
+  margin-top: 10px;
+  box-sizing: inherit;
+}
+
+.detail_label {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #6e8496;
+  font-size: 12px;
+}
+
+.detail_info {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #0d3f67;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: none !important;
+  cursor: pointer;
+}
+
+.resume_button {
+  position: 'absolute';
+  top: '50%';
+  left: '50%';
+}
+
+.though_text {
+  margin: 0 !important;
+  line-height: 1.64;
+  color: #6e8496;
+  font-size: 21px;
+  font-family: 'Open Sans', sans-serif !important;
+  text-align: center;
+}
+
+.though_by {
+  margin: 0 auto;
+  line-height: 1.64;
+  color: #6e8496;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.university, .course_name, .company, .job_name {
+  margin-top: 20px;
+  font-size: 14px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #202020;
+  font-weight: 900;
+}
+
+.course_time, .course_details, .job_duration, .job_details {
+  font-size: 12px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #6e8496;
+}
+
+.university_location {
+  color: #22A39F;
+  float: right;
+}
+
+.company_location {
+  color: #22A39F;
+}
+
+.aggregate {
+  color: #22A39F;
+  font-weight: 900;
+}
+
+.university_location span, .company_location span {
+  vertical-align: top;
+  font-size: 12px;
+  line-height: 1.64;
+}
+
+.skill_title {
+  font-size: 12px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #6e8496;
+}
+
+
+.dark_box {
+  background-color: #3f3f3f;
+  padding-bottom: 100px;
+}
+
+.dark_box .heading, .dark_box .though_text, .dark_box .though_by {
+  color: #b4b4b4;
+}
+
+.dark_box .devider {
+  color: #b4b4b4;
+  background-color: cadetblue;
+}
+
+.dark_box p {
+  text-align: center;
+  color: #b4b4b4;
+}
+
+.dark_box p a {
+  text-align: center;
+  color: #b4b4b4;
+  text-decoration: none;
+  text-decoration-color: #cecece;
+  vertical-align: top;
+  top: -10;
+  line-height: 0.30;
+}
+
+.dark_box p svg {
+  top: -10;
+  line-height: 0.30;
+}
+
+.dark_box p {
+  line-height: 0.40;
+  vertical-align: top;
+}
+
+.dark_box .linked_in {
+  vertical-align: top !important;
+  top: -30px
+}
